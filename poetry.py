@@ -23,7 +23,7 @@ class ScrollFrame(tk.Frame):
 
     # Credit for this class is given to
     # https://gist.github.com/mp035/9f2027c3ef9172264532fcd6262f3b01
-    # with some modifications
+    # with some modifications done by university professors and TAs
 
     def __init__(self, parent: tk.Frame) -> None:
         """Initialize a frame with a scrollbar"""
